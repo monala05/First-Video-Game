@@ -1,6 +1,6 @@
 # 2D video game project
 Simple 2D side scrolling video game for my college project class!
-!(Demo/2dGame.gif)
+![](Demo/2dGame.gif)
 
 *The learning folder simply contains the code necessary to create the widgets necessary to start game design in raw java code.* 
 
