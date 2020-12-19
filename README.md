@@ -8,5 +8,3 @@ The code uploaded to this repository is for the most part, controller scripts to
 
 This project helped me to learn some basic C# syntax, it also greatly helped to solidify OOP concepts for me, since objects in a sense came to life in Unity. Using code, we could change any property imaginable for any entity within the game engine. I also would say that I can now comfortably design basic 2D games using the unity game engine. 
 
-*** Tutorials by Alvin Roe. This was a learning project.  
-*** https://www.youtube.com/channel/UCBEzA1UQD310iEdiQGgWqwg
